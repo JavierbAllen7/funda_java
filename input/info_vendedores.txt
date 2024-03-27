@@ -1,0 +1,10 @@
+CC;6754982;Maria Lopez;Andres Lopez
+CC;4549256;Ana Martinez;Maria Martinez
+CC;6130897;Pedro Martinez;Luisa Martinez
+CC;4045155;Juan Gomez;Pedro Rodriguez
+CC;5957284;Pedro Lopez;Andres Perez
+CC;1497798;Luisa Perez;Juan Gomez
+CC;2670716;Pedro Garcia;Maria Perez
+CC;3431483;Carlos Garcia;Luisa Gomez
+CC;9877569;Luisa Martinez;Pedro Gomez
+CC;8748617;Laura Martinez;Pedro Lopez
